@@ -1,3 +1,6 @@
 [submodule "owinnybe"]
 	path = owinnybe
 	url = https://github.com/defenseoftheancients/owinnybe.git
+[submodule "owinnyui"]
+	path = owinnyui
+	url = https://github.com/defenseoftheancients/owinnyui.git
